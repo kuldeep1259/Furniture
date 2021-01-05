@@ -43,7 +43,7 @@ class Sidebar extends React.Component {
             </a>
             <ul className="nav nav-treeview">
               <li className="nav-item">
-                <a href="pages/charts/chartjs.html" className="nav-link">
+                <a href="/users" className="nav-link">
                   <i className="far fa-circle nav-icon"></i>
                   <p>All users</p>
                 </a>
